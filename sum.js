@@ -13,3 +13,4 @@ summ(5,6)
 let v=[5,4,2,3]
 v.sort()
 console.log(v)
+console.log(diff)
