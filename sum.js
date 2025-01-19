@@ -4,7 +4,7 @@ console.log(sum(2,3))
 const diff=()=>{
     console.log("constant function")
 }
-diff()
+diff();
 
 let summ=(a,b)=>{
     console.log(a+b)
