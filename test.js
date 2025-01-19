@@ -39,6 +39,7 @@ let sum=(n)=>  {
         console.log("odd")
     }
 }
-sum(7)
+var a=5
+
 
 
