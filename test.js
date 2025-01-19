@@ -40,5 +40,6 @@ let sum=(n)=>  {
     }
 }
 sum(7)
+var a
 
 
